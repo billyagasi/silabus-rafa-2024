@@ -1,0 +1,21 @@
+Part 1
+
+Theme : Basic OS (Linux) 
+Objective :
+1. Understand installation Linux
+2. Understand how to operate Linux
+3. Understand basic scripting Linux ( Bash Script )
+
+Study Case 
+1. Setup Ubuntu 22.00 using Virtualbox with limit cpu 2 core, memory 1 GB and storage 10 GB, Also create username & password for login
+2. Please capture your usage spec after installation using terminal ( cpu, memory, storage)
+3. Create simple bash script for showing looping output "Hello World" 10 lines on spesific path /var/log/apps/helloworld.sh then copy to spesific path /etc/apps/helloworld.sh
+4. Delete files & folder apps on /var/log/
+5. Install git on server linux
+6. Try clone sample repo (random) on path folder /etc/apps/github/ 
+7. Please do using terminal only.
+8. Present your task on 8 September 2024 via Gmeet
+9. Enjoy your first Task :)
+
+Timeline
+25 August 2024 - 8 September 2024
