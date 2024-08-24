@@ -1,4 +1,4 @@
-# silabus-rafa-2024
+# Silabus-Rafa-2024
 1. Basic Operate OS Linux
 2. Gitops
 3. Container
