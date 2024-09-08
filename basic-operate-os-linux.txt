@@ -1,6 +1,6 @@
-Part 1
-
 Theme : Basic OS (Linux) 
+Part 1
+=======
 Objective :
 1. Understand installation Linux
 2. Understand how to operate Linux
@@ -18,4 +18,27 @@ Study Case
 9. Enjoy your first Task :)
 
 Timeline
-25 August 2024 - 8 September 2024
+25 August 2024 - 8 September 2024 ( done )
+
+*******************************************
+Part 2 :
+=======
+Objective :
+1. Understand installation ssh
+2. Understand access management
+3. Understand push to repo
+
+Study Case 
+1. Install putty in laptop
+2. Setup ssh di server linux
+3. Create user "rafa" & password level non-root
+4. Create permission files
+   -- helloworld-v1.sh -> root:root
+   -- helloworld-v2.sh -> root:rafa
+   -- helloworld-v3.sh -> rafa:rafa
+   -- helloworld-v4.sh -> rafa:root
+5. Push to this repo with create format folder "basic-linux-part-1" then copy all files bash script + files basic-operate-os-linux.txt
+6. Present your task on 29 September 2024 via Gmeet
+
+Timeline
+8 September 2024 - 29 September 2024
