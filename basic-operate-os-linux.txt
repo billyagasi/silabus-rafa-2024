@@ -40,5 +40,10 @@ Study Case
 5. Push to this repo with create format folder "basic-linux-part-1" then copy all files bash script + files basic-operate-os-linux.txt
 6. Present your task on 29 September 2024 via Gmeet
 
+Optional Task :
+1. create bash script write files come from timestamp
+   -- sample write on output "hello-world-dd-mm-yyyy-hh:mm:ss" --> "hello-world-12-09-2024-143000"
+2. ⁠create cronjob for execute files every 5 minutes
+
 Timeline
 8 September 2024 - 29 September 2024
