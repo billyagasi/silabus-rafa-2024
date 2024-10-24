@@ -12,6 +12,7 @@
    - Understand pull & push
    - Understand revert
 3. Container October - November
+   - Understand different cloud computing, on-premise & container
    - Understand installation docker in windows
    - Understand concept containeriation ( create research ppt concept container )
    - Understand process create container via docker & docker-compose
