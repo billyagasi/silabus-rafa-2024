@@ -1,0 +1,21 @@
+Final Project :
+1. Deploy Apps ( Instance A ) -- Timeline xx Des - xx Jan
+ - Running on Docker
+ - Using DB PostgreSQL
+ - Using Proxy,Domain & SSL with NGINX
+2. Instrumentation Services ( Instance B ) xx Jan - xx Jan 
+ - Deploy Opentelemetry on your code
+ - Deploy Exporter on your instance
+ - Deploy Grafana & Jaeger for Instrumentation
+3. Improve your vulnerability security xx Jan - xx Feb
+ - Scanning
+ - Fixing
+ - Pentes your apps
+4. Please do it with Gitops ( Related All Script, Config, Code push to repo )
+ - Refer from this docs https://dev.to/varbsan/a-simplified-convention-for-naming-branches-and-commits-in-git-il4
+
+*Notes : 
+Console Server : https://console.idcloudhost.com/hub/home#auth0
+Create Server using Ubuntu & Setup Docer & Docker Compose
+Please be wise on your cost budget server
+Domain & SSL will be purchase when your apps ready
